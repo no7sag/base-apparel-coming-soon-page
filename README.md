@@ -1,4 +1,4 @@
-# Base Apparel coming soon page
+# Coming soon page
 Terceer [Frontend Challenge](https://www.frontendmentor.io/) usando CSS Grid and Flexbox.
 
 URL de vista previa [aquí](https://no7sag.github.io/base-apparel-coming-soon-page/).
