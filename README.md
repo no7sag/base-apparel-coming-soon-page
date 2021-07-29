@@ -1,5 +1,5 @@
 # Coming soon page
-Terceer [Frontend Challenge](https://www.frontendmentor.io/) usando CSS Grid and Flexbox.
+Tercer [Frontend Challenge](https://www.frontendmentor.io/) usando CSS Grid, Flexbox y JavaScript.
 
 URL de vista previa [aquí](https://no7sag.github.io/base-apparel-coming-soon-page/).
 
